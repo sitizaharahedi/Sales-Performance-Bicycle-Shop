@@ -27,4 +27,4 @@ Conducted simple data wrangling and data cleaning:
 - Produced a 1-pager dashboard using Excel.
 - Excel dashboard : [Link](https://drive.google.com/uc?export=download&id=1A3GB8K0NfBIUpE0PzM2SLUkuxeDQLmqL)
 
-![Sales Performance for Bicycle Shop](./Sales-Performance-Bicycle-Shop.jpg)
+![Sales Performance for Bicycle Shop](./Sales-Performance-Bicycle-Shop.JPG)
