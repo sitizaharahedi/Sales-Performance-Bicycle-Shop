@@ -3,8 +3,6 @@
 ## 📚 About Data
 This interactive sales dashboard analyzes over $118M in total sales, $16.9M in profit, and 1.1M units sold, segmented by product, customer, country, and month. It highlights top-performing products (PROD_ID_002), customer contributions, sales by segment, and monthly profit trends across 2021–2022.
 
-#salesperformancebicycleshop
-
 ## 💡 Highlights
 
 - Top-Selling Product: PROD_ID_002 generated the highest revenue — $33,011,144 in sales.
@@ -20,8 +18,6 @@ Conducted simple data wrangling and data cleaning:
 - Cleaned Valuation and Funding columns and cast as float
 - Exclude rows with "Unknown" Funding values
 - Explode Select Investors column into individual rows for categorical analysis
-
-📍 Clean Data: Sales-Performance-Bicycle-Shop.csv
 
 ## 📊 Visualization
 - Produced a 1-pager dashboard using Excel.
