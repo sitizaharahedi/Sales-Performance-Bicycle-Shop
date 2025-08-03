@@ -19,6 +19,8 @@ Conducted simple data wrangling and data cleaning:
 - Exclude rows with "Unknown" Funding values
 - Explode Select Investors column into individual rows for categorical analysis
 
+📍 Clean Data: Sales-Performance-Bicycle-Shop.csv
+
 ## 📊 Visualization
 - Produced a 1-pager dashboard using Excel.
 - Excel dashboard : [Link](https://drive.google.com/uc?export=download&id=1A3GB8K0NfBIUpE0PzM2SLUkuxeDQLmqL)
