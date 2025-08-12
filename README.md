@@ -1,14 +1,14 @@
 # 🚲 Sales Performance for Bicycle Shop Dashboard
 
-An interactive Power BI dashboard presenting sales data from 2021 to 2022, covering total sales, profit, units sold, product performance, customer segmentation, and geographic distribution. Designed to help sales and marketing teams identify growth opportunities and optimize strategies.
+An interactive Power BI dashboard presenting bicycle sales data from 2021 to 2022, showing total sales, profit, units sold, product performance, customer segmentation, and geographic distribution. Designed to help sales and marketing teams uncover insights and optimize growth strategies.
 
 ---
 
 ## 📚 About Data
 
 This dataset contains detailed bicycle sales records including:
-- Total sales, profit, and units sold
-- Product-level performance (e.g., PROD_ID_002)
+- Total sales, profit and units sold
+- Product-level performance
 - Customer segmentation by type (Government, Small Business, etc.)
 - Sales distribution by country and month
 
@@ -36,17 +36,17 @@ This dataset contains detailed bicycle sales records including:
 
 This dashboard helps sales managers, marketers, and business analysts to:
 - Track overall sales, profit, and units sold performance
-- Identify top-selling products and key customer segments
-- Analyze sales trends over time and across countries
-- Optimize sales strategies based on geographic and segment insights
+- Identify top products and key customer segments
+- Analyze sales trends by month and country
+- Optimize sales and marketing strategies based on data insights
 
 ---
 
 ## 🧠 Data Storytelling
 
-Between 2021 and 2022, the bicycle shop achieved strong sales performance with total revenue of $118.7M and a healthy profit margin of 14.23%. The product PROD_ID_002 emerged as the highest revenue driver, accounting for over $33 million in sales.
+Between 2021 and 2022, the bicycle shop showed strong business results with total sales reaching $118.7 million and a healthy profit margin of 14.23%. The top-selling product, PROD_ID_002, contributed significantly with over $33 million in revenue, making it a key driver of overall sales success.
 
-Sales were concentrated in key markets, with the USA and India leading in volume and revenue. Government and Small Business customer segments made up the majority of sales, highlighting important target groups. Monthly profit trends show peaks in June 2022 and other periods, indicating seasonal demand patterns that can guide inventory and marketing planning.
+Sales were concentrated mainly in the USA and India, which emerged as the largest markets by sales volume and revenue. The Government and Small Business customer segments accounted for 80% of total sales, highlighting their importance to the business. Monthly profit trends revealed clear seasonal peaks, especially in June 2022, suggesting opportunities to optimize inventory and marketing efforts during high-demand periods. These insights enable better focus on top products, key markets, and customer groups to drive future growth.
 
 ---
 
