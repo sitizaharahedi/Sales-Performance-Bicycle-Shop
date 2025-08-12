@@ -1,7 +1,18 @@
 # 🚲 Sales Performance for Bicycle Shop Dashboard
 
+An interactive Power BI dashboard presenting sales data from 2021 to 2022, covering total sales, profit, units sold, product performance, customer segmentation, and geographic distribution. Designed to help sales and marketing teams identify growth opportunities and optimize strategies.
+
+---
+
 ## 📚 About Data
-This interactive sales dashboard analyzes over $118M in total sales, $16.9M in profit, and 1.1M units sold, segmented by product, customer, country, and month. It highlights top-performing products (PROD_ID_002), customer contributions, sales by segment, and monthly profit trends across 2021–2022.
+
+This dataset contains detailed bicycle sales records including:
+- Total sales, profit, and units sold
+- Product-level performance (e.g., PROD_ID_002)
+- Customer segmentation by type (Government, Small Business, etc.)
+- Sales distribution by country and month
+
+---
 
 ## 💡 Highlights
 
@@ -11,18 +22,37 @@ This interactive sales dashboard analyzes over $118M in total sales, $16.9M in p
 - Sales by Country: The USA and India were leading markets, contributing the largest share of sales.
 - Customer Segments: Government and Small Business segments made up 80% of total sales, with Government alone contributing 44%.
 
-## ✏️ Data Wrangling
-Conducted simple data wrangling and data cleaning:
+---
 
-- Removed rows with missing values
-- Cleaned Valuation and Funding columns and cast as float
-- Exclude rows with "Unknown" Funding values
-- Explode Select Investors column into individual rows for categorical analysis
+## ✏️ Data Wrangling
+- Removed rows with missing or invalid values
+- Cleaned and converted numerical columns to correct data types
+- Filtered out “Unknown” values in key categorical fields
+- Expanded multi-value fields for detailed segment analysis
+
+---
+
+## 🔍 Purpose
+
+This dashboard helps sales managers, marketers, and business analysts to:
+- Track overall sales, profit, and units sold performance
+- Identify top-selling products and key customer segments
+- Analyze sales trends over time and across countries
+- Optimize sales strategies based on geographic and segment insights
+
+---
+
+## 🧠 Data Storytelling
+
+Between 2021 and 2022, the bicycle shop achieved strong sales performance with total revenue of $118.7M and a healthy profit margin of 14.23%. The product PROD_ID_002 emerged as the highest revenue driver, accounting for over $33 million in sales.
+
+Sales were concentrated in key markets, with the USA and India leading in volume and revenue. Government and Small Business customer segments made up the majority of sales, highlighting important target groups. Monthly profit trends show peaks in June 2022 and other periods, indicating seasonal demand patterns that can guide inventory and marketing planning.
+
+---
+
+## 📌 Tools Used
+Power BI for data visualization and dashboard development [Link](https://drive.google.com/uc?export=download&id=1A3GB8K0NfBIUpE0PzM2SLUkuxeDQLmqL)
 
 📍 Clean Data: Sales-Performance-Bicycle-Shop.csv
-
-## 📊 Visualization
-- Produced a 1-pager dashboard using Excel.
-- Excel dashboard : [Link](https://drive.google.com/uc?export=download&id=1A3GB8K0NfBIUpE0PzM2SLUkuxeDQLmqL)
 
 ![Sales Performance for Bicycle Shop](./Sales-Performance-Bicycle-Shop.JPG)
